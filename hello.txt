@@ -2,3 +2,4 @@ hello Git
 Git is awesome 
 This is the MASTER + CONFLICT branch
 learning GitHub 
+Fetching is interesting 
